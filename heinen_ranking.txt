@@ -1,0 +1,8 @@
+                               Category Rank
+1                  Computer Programming    4
+2                                  Math    4
+3                            Statistics    2
+4                      Machine Learning    1
+5                      Domain Expertise    4
+6 Communication and Presentation Skills    3
+
